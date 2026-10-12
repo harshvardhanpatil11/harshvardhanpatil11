@@ -3,16 +3,7 @@
 <h3 align="center">Passionate Developer| Backend Learner | DSA Enthusiast </h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Profile Views](https://komarev.com/ghpvc/?username=harshvardhanpatil11)
 
-
-### 🏅 LeetCode Info :
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/harshvardhanpatil11?theme=dark&ext=activity"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🐍 Watch My Contributions Get Eaten
 
@@ -28,13 +19,6 @@
 
 <h1 align="left">Languages and Tools:</h1>
 
-<p align="center">
-  <img 
-    alt="Coding" 
-    width="420" 
-    src="https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/3928c779-ca3a-4e88-a7b6-b243ad12f4e5"
-  />
-</p>
 
 <br>
 
